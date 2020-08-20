@@ -2,7 +2,7 @@
 
 This was intially a project I did in an undergraduate class on R fundametals. 
 The version of the project I found recently was incomplete, and had a lot of syntax errors.
-I will complete re-executing the project using Python, I plan to also expanded and optimized many of the features.
+I will continue to execute the project using Python, so far I have expanded and optimized many of the features.
 I revisited this project in order to get some practice with coding basics in Python.
 
 This project is suppose to be a managerial tool that provides the price of vegetables, shipping cost, and an end of day summary.
